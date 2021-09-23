@@ -1,2 +1,3 @@
 # Cart Counter
-React, Bootstrap
+React, Bootstrap  
+[Deploy](https://unclekoin.github.io/react-cart-counter/)
